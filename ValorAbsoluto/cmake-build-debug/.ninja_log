@@ -1,0 +1,24 @@
+# ninja log v5
+0	75	7246413038379946	CMakeFiles/ValorAbsoluto.dir/main.c.obj	374725db79db3008
+4	362	7246413041238402	CMakeFiles/ValorAbsoluto.dir/main.cpp.obj	ea7235d574dfb071
+363	457	7246413042165388	ValorAbsoluto.exe	6052c3b838cc3f97
+3	69	7246413777835695	CMakeFiles/ValorAbsoluto.dir/main.c.obj	374725db79db3008
+70	144	7246413778545136	ValorAbsoluto.exe	6052c3b838cc3f97
+3	65	7246414117859648	CMakeFiles/ValorAbsoluto.dir/main.c.obj	374725db79db3008
+65	144	7246414118606802	ValorAbsoluto.exe	6052c3b838cc3f97
+4	71	7246414329667427	CMakeFiles/ValorAbsoluto.dir/main.c.obj	374725db79db3008
+71	143	7246414330352712	ValorAbsoluto.exe	6052c3b838cc3f97
+3	63	7246414656006482	CMakeFiles/ValorAbsoluto.dir/main.c.obj	374725db79db3008
+63	136	7246414656687738	ValorAbsoluto.exe	6052c3b838cc3f97
+2	62	7246414811870309	CMakeFiles/ValorAbsoluto.dir/main.c.obj	374725db79db3008
+63	135	7246414812578943	ValorAbsoluto.exe	6052c3b838cc3f97
+3	66	7246416487807094	CMakeFiles/ValorAbsoluto.dir/main.c.obj	374725db79db3008
+66	146	7246416488565336	ValorAbsoluto.exe	6052c3b838cc3f97
+3	63	7246416704547821	CMakeFiles/ValorAbsoluto.dir/main.c.obj	374725db79db3008
+63	140	7246416705274849	ValorAbsoluto.exe	6052c3b838cc3f97
+2	61	7246416948405074	CMakeFiles/ValorAbsoluto.dir/main.c.obj	374725db79db3008
+62	134	7246416949104558	ValorAbsoluto.exe	6052c3b838cc3f97
+2	73	7246417401744427	CMakeFiles/ValorAbsoluto.dir/main.c.obj	374725db79db3008
+73	161	7246417402611660	ValorAbsoluto.exe	6052c3b838cc3f97
+3	62	7246417486735281	CMakeFiles/ValorAbsoluto.dir/main.c.obj	374725db79db3008
+63	133	7246417487397455	ValorAbsoluto.exe	6052c3b838cc3f97
