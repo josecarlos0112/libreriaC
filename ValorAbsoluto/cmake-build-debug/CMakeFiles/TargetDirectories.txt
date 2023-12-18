@@ -1,0 +1,3 @@
+C:/Users/usuario/Documents/GitHub/libreriaC/ValorAbsoluto/cmake-build-debug/CMakeFiles/ValorAbsoluto.dir
+C:/Users/usuario/Documents/GitHub/libreriaC/ValorAbsoluto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/usuario/Documents/GitHub/libreriaC/ValorAbsoluto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
