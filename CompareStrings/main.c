@@ -30,6 +30,7 @@ int main() {
 
     char str[100];
 
+    printf("Ingresa una cadena (solo una palabra): ");
     scanf("%s", str);
 
     int length = strlen(str);
