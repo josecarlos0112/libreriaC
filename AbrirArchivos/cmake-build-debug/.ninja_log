@@ -1,0 +1,12 @@
+# ninja log v5
+6	52	7246426422741261	CMakeFiles/AbrirArchivos.dir/main.cpp.obj	82a7c657c4b2c9d0
+1	67	7246426422886656	CMakeFiles/AbrirArchivos.dir/main.c.obj	8a09dca374ce2cac
+67	146	7246426423650279	AbrirArchivos.exe	27d0043c2fe7b65c
+2	63	7246426895532802	CMakeFiles/AbrirArchivos.dir/main.c.obj	8a09dca374ce2cac
+63	141	7246426896285422	AbrirArchivos.exe	27d0043c2fe7b65c
+2	58	7246427585673418	CMakeFiles/AbrirArchivos.dir/main.c.obj	8a09dca374ce2cac
+59	136	7246427586405569	AbrirArchivos.exe	27d0043c2fe7b65c
+2	57	7246428234819694	CMakeFiles/AbrirArchivos.dir/main.c.obj	8a09dca374ce2cac
+57	131	7246428235528376	AbrirArchivos.exe	27d0043c2fe7b65c
+2	56	7246430790880624	CMakeFiles/AbrirArchivos.dir/main.c.obj	8a09dca374ce2cac
+56	131	7246430791587690	AbrirArchivos.exe	27d0043c2fe7b65c
