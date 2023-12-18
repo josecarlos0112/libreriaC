@@ -1,3 +1,7 @@
 # ninja log v5
 0	1117	7246404060689756	CMakeFiles/CompareStrings.dir/main.cpp.obj	324f3e1662b0dbe7
+3	82	7246406876188772	CMakeFiles/CompareStrings.dir/main.c.obj	3ad0403da041c29d
 1118	1279	7246404062287591	CompareStrings.exe	2b2dd73414d22014
+1	89	7246407188101767	build.ninja	3c181c2e7b209b26
+3	328	7246407679396854	CMakeFiles/CompareStrings.dir/main.cpp.obj	324f3e1662b0dbe7
+328	400	7246407680094134	CompareStrings.exe	bc3d1b2260538f0f

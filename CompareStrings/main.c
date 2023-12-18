@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 int main() {
-    char str1[] = "Hola";
-    char str2[] = "Mundo";
+    char str1[] = "Hola estimado";
+    char str2[] = "Ruben";
 
     int comparison = strcmp(str1, str2);
 
