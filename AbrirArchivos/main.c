@@ -5,22 +5,20 @@ int main() {
     printf("Parte a) Abrir un archivo\n");
 
     char *filename = "../hola.txt";
-    FILE *file = fopen(filename, "r");
+    FILE *file = fopen(filename, "w");
+
+    fprintf(file, "Hola,profeRubeeeen!\n");
+
     if (file == NULL) {
-        printf("El archivo %s no se pudo abrir.\n", filename);
+        printf("El archivo %s no se pudo abrir ni para escribir en el.\n", filename);
         return 1;
     }else{
         printf("El archivo %s se abrio correctamente.\n", filename);
     }
 
-    // Cerrar el archivo al final
-    fclose(file);
+    printf("\nParte b) Escribir y leer un archivo\n");
 
-    printf("\nParte b) Leer un archivo\n");
-
-    fprintf(file, "Hola, mundo!\n");
-
-    // Cerrar el archivo después de escribir
+    // Cerrar el archivo después de leer
     fclose(file);
 
     // Abrir de nuevo para leer
@@ -33,7 +31,7 @@ int main() {
     char buffer[50];
     fscanf(file, "%s", buffer);
 
-    printf("Leído del archivo: %s\n", buffer);
+    printf("Leida del archivo: %s\n", buffer);
 
     // Cerrar el archivo después de leer
     fclose(file);
