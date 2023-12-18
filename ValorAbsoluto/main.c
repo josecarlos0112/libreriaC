@@ -22,6 +22,12 @@ int main() {
 
     printf("\nParte b)\n");
 
+    srand(time(0));
+
+    int random_number = rand();
+    printf("Numero aleatorio: %d\n", random_number);
+
+    return 0;
 
     return 0;
 }
