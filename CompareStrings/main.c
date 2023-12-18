@@ -2,6 +2,8 @@
 #include <stdio.h>
 
 int main() {
+
+    printf("Parte a)\n");
     //Prueba 1
     char str1[] = "Hola Ruben";
     char str2[] = "Hola Ruben";
@@ -23,6 +25,16 @@ int main() {
     } else {
         printf("En la segunda prueba\n Las cadenas son diferentes.\n");
     }
+
+    printf("\nParte b)\n");
+
+    char str[100];
+
+    scanf("%s", str);
+
+    int length = strlen(str);
+
+    printf("La longitud de '%s' es: %d\n", str, length);
 
     return 0;
 }

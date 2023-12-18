@@ -21,9 +21,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2ZjYUy2C0MjuTaY5njJAEpPmfvU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,6 +38,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/usuario/Documents/GitHub/libreriaC/CompareStrings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -50,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1702936978991</updated>
       <workItem from="1702936981634" duration="45000" />
+      <workItem from="1702938808281" duration="44000" />
     </task>
     <servers />
   </component>
