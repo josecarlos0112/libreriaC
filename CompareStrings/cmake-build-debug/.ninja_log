@@ -5,3 +5,7 @@
 1	89	7246407188101767	build.ninja	3c181c2e7b209b26
 3	328	7246407679396854	CMakeFiles/CompareStrings.dir/main.cpp.obj	324f3e1662b0dbe7
 328	400	7246407680094134	CompareStrings.exe	bc3d1b2260538f0f
+4	68	7246408804314037	CMakeFiles/CompareStrings.dir/main.c.obj	3ad0403da041c29d
+68	149	7246408805088970	CompareStrings.exe	bc3d1b2260538f0f
+3	65	7246411541409913	CMakeFiles/CompareStrings.dir/main.c.obj	3ad0403da041c29d
+65	140	7246411542130027	CompareStrings.exe	bc3d1b2260538f0f
